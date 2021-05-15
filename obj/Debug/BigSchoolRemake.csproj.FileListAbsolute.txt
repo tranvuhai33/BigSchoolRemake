@@ -113,4 +113,5 @@ C:\Users\vuhai\source\repos\BigSchoolRemake\bin\System.Web.Http.xml
 C:\Users\vuhai\source\repos\BigSchoolRemake\bin\System.Web.Http.WebHost.xml
 C:\Users\vuhai\source\repos\BigSchoolRemake\obj\Debug\BigSchoolRemake.Migrations.somethingNewver2.resources
 C:\Users\vuhai\source\repos\BigSchoolRemake\obj\Debug\BigSchoolRemake.csproj.GenerateResource.cache
+C:\Users\vuhai\source\repos\BigSchoolRemake\obj\Debug\BigSchoolRemake.Migrations.AddIsCanceledColumnToCourse.resources
 C:\Users\vuhai\source\repos\BigSchoolRemake\obj\Debug\BigSchoolRemake.csproj.AssemblyReference.cache
